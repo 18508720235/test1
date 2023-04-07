@@ -1,0 +1,23 @@
+{
+  "lidar_data": {
+
+                "lidar_1": {
+                                  "installed": 0,
+                                  "Lidar_charset": "utf-8",
+                                  "Lidar_heights": [30,40,80,100,120,140,160,180,200,240,260,300],
+                                  "path": "D:\\ba\\data\\lidar\\molas51\\",
+                                  "prefix": "Molas B300-698WindSpeed",
+                                  "suffix": ".txt"
+                              },
+                "lidar_2": {
+                                  "installed": 0,
+                                  "Lidar_charset": "utf-8",
+                                  "Lidar_heights": [30,40,80,100,120,140,160,180,200,240,260,300],
+                                  "path": "D:\\ba\\data\\lidar\\molas52\\",
+                                  "prefix": "Molas B300-701WindSpeed",
+                                  "suffix": ".txt"
+                              }
+  }
+
+   
+}
